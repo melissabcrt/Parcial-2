@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">parcial2</string>
+    <string name="wifi">WiFi</string>
+    <string name="dueño">Nombre del Dueño</string>
+    <string name="gato">Nombre del Gato</string>
+    <string name="edad">Edad del Gato</string>
+    <string name="guardar">Guardar</string>
+    <string name="guardarsw">Guardar Datos</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
